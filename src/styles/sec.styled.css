@@ -1,0 +1,67 @@
+:root {
+  --border-color: #727272;
+  --input-bg-color: #f1f1f1;
+  --ans-tags-bg-color: #fafafa;
+  --ans-tags-color: #212121;
+  --ans-title-color: #607ea0;
+  --p-color: #2e2e2e;
+  --button-bg-color: #000;
+  --button-color: #fff;
+
+  --top-btn-bg-color: transparent;
+  --top-gpt-color: #989898;
+  --top-btn-color: #a9a9a9;
+  --top-dark-svg-color: #c2c2c2;
+  --top-light-svg-color: #323232;
+  --top-flag-svg-color: #c2c2c2;
+  --top-auger-svg-color: #000;
+  --top-no-affiliation-color: #b80000;
+
+  --middle-title-color: #607ea0;
+  --middle-explain-color-light: #777777;
+  --middle-explain-color-deep: #101010;
+
+  --theme-bg-color: #fff;
+}
+
+.fixed-sec-glossary {
+  cursor: pointer;
+
+  background: linear-gradient(180deg, #98b2d0 100%, #000000 44%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.top-sec-light {
+  background: linear-gradient(180deg, #00397b 0%, #4f5c6a 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.top-sec-dark {
+  background: linear-gradient(
+    180deg,
+    #ffffff 0%,
+    rgba(255, 255, 255, 0.41) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.top-sec-blue {
+  background: linear-gradient(
+    180deg,
+    #ffffff 0%,
+    rgba(255, 255, 255, 0.41) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
